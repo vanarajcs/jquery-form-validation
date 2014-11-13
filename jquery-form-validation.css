@@ -1,0 +1,19 @@
+/* 
+ * Author : Vanaraj
+ * Author Email : c.vanaraj@gmail.com
+ * Jquery Validation with simplicity
+*/
+
+p.error {
+    font-family: arial;
+    font-size: 14px;
+    color: red;
+}
+
+.red {
+    border: 1px solid red;
+}
+
+.textbox-error {
+    
+}
